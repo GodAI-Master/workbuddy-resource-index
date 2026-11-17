@@ -1,0 +1,10 @@
+# Keep media and document assets byte-for-byte across platforms.
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.mp4 binary
+*.pdf binary
+*.png binary
+*.rar binary
+*.webp binary
+*.zip binary
